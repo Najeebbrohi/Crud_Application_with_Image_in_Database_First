@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApplicationWithImage", "CrudApplicationWithImage\CrudApplicationWithImage.csproj", "{6C80B5B9-E927-4CE7-A275-FB64A08E523F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C80B5B9-E927-4CE7-A275-FB64A08E523F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C80B5B9-E927-4CE7-A275-FB64A08E523F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C80B5B9-E927-4CE7-A275-FB64A08E523F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C80B5B9-E927-4CE7-A275-FB64A08E523F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7F4387-7A3E-4D8B-AF55-C5B45FEBA334}
+	EndGlobalSection
+EndGlobal
